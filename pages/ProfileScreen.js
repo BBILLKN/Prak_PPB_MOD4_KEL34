@@ -1,4 +1,3 @@
-//pages/ProfileScreen.js
 import { View, FlatList, StyleSheet } from "react-native";
 import { data } from "../data/data";
 import Card from "../components/Card";

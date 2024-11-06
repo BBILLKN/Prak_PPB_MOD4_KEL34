@@ -1,4 +1,3 @@
-// AnimeScreen.js
 import React, { useState, useEffect } from 'react';
 import { View, Text, StyleSheet, FlatList, Image, TouchableOpacity, ScrollView, SafeAreaView } from 'react-native';
 import axios from 'axios';

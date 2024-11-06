@@ -1,4 +1,3 @@
-//pages/HomeScreen.js
 import { useState, useEffect } from "react";
 import {
   View,
