@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Mod4_Kel9",
-    "slug": "Mod4_Kel9",
+    "slug": "praktikum-ppb",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -22,6 +22,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "42496f17-d8b8-43bc-879f-caba6216e253"
+      }
+    },
+    "owner": "kiki26"
   }
 }
